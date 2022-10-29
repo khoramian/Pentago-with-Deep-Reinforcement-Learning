@@ -62,7 +62,7 @@ env = gym.make('pentago-v0')
 ```
 
 ## Uninstallation
-To remove the entire package just enter the following commands:
+Use following command to remove the entire package:
 
 ```bash
 sudo pip3 uninstall gym-pentago
