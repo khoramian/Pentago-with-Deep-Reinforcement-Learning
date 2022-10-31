@@ -28,7 +28,7 @@ Environment directory contains a customized OpenAI Gym RL Environment for Pentag
 There is more about Pentago and how it is simulated by my Gym environment in directory's README.md.
 fileeeeeeeeeeeeeeee
 
-<img src=utilities/play_sample.gif>
+![sample](utilities/play_sample.gif)
 
 ax gym , ax pentago
 
