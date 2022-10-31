@@ -26,8 +26,10 @@ solve it with a Deep RL agent called DQN:
 ### Environment Directory
 Environment directory contains a customized OpenAI Gym RL Environment for Pentago board game.
 There is more about Pentago and how it is simulated by my Gym environment in directory's README.md.
+fileeeeeeeeeeeeeeee
 
-![sample](utilities/sample.gif=250x250)
+<img src=utilities/sample.gif width="48">
+
 ax gym , ax pentago
 
 ### Agent Directory 
