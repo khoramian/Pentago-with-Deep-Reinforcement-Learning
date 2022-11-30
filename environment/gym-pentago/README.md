@@ -36,8 +36,7 @@ The game ends if one or both of the agent and environment win or when all positi
 * Both directions
 
 ## Copy Right
-Following link provided by Matt Chan is highly used to design and implement this environment:
-https://github.com/MattChanTK/gym-maze
+The implementations in [this link](https://github.com/MattChanTK/gym-maze) provided by Matt Chan, is highly used to design and implement this environment.
 
 ## Installation
 It is implemented and tested on a Unix-based OS,
