@@ -4,7 +4,7 @@ This repository contains two basic directories and a main file to simulate Penta
 solve it with a Deep RL agent called DQN.
 
 
-## High-level structure
+## Main structure
 
     ├── agent
         ├── Base_Agent.py   
