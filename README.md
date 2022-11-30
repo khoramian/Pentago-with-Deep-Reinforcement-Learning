@@ -58,10 +58,9 @@ cd Pentago-with-Deep-Reinforcement-Learning
 2. Then install Pentago environment with the help of [README](https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning/blob/main/environment/gym-pentago/README.md) file in Environment directory.
 
 
-3. Finally, watch the agent learning the game by running main.py file:
+3. Finally, watch the agent learning the game by running main.py file in base directory:
 ```bash
 python3 main.py
 ```
-## Sample Run
 
 ![sample](utilities/sample.gif)
