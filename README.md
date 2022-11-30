@@ -41,8 +41,7 @@ https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
 Environment directory contains a customized Gym environment for Pentago board game.
 There is more about Pentago and how it is simulated by this package in README file of the directory:
 
-<sup> ([README.md](https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning/blob/main/environment/gym-pentago/README.md)) </sup>
-
+![README.md](https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning/blob/main/environment/gym-pentago/README.md)
 
 ![sample](utilities/sample.gif)
 
