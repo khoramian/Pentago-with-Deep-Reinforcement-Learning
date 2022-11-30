@@ -28,7 +28,7 @@ solve it with a Deep RL agent called DQN:
 Agent directory contains several files including PyTorch implementation of DQN algorithm to interact with Pentago environment and solve the game.
 DQN is a Deep RL method introduced by Mnih et al. in 2013. The entire article is accessible by [this link](https://arxiv.org/pdf/1312.5602.pdf).
 
-<img src="utilities/RL.png" />          <img src="utilities/PyTorch.jpg" />
+<img src="utilities/RL.png" />              <img src="utilities/PyTorch.jpg" />
 
 Most of the agent is adopted from the following project by Petros Christodoulou et al.:
 https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
