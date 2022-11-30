@@ -1,6 +1,6 @@
 # Pentago with Deep Reinforcement Learning
 
-This repository contains two main parts to simulate Pentago environment and 
+This repository contains two main directories and a main file to simulate Pentago environment and 
 solve it with a Deep RL agent called DQN:
 
     ├── agent
@@ -22,9 +22,6 @@ solve it with a Deep RL agent called DQN:
             ├── README.md
             └── setup.py
     └── main.py
-
-
-![sample](utilities/sample.gif)
 
 
 ### Agent Directory 
@@ -58,3 +55,6 @@ git liiiiiiink
 ```bash
 python3 main.py
 ```
+## Sample Run
+
+![sample](utilities/sample.gif)
