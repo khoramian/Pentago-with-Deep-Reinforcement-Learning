@@ -5,7 +5,7 @@ The game is for two players with four 3×3 grids arranged into a larger 6×6 gri
 In each turn a player can place a marble in an empty position and rotate a grid by 90° clockwise (except for the grid in which the marble is just set).
 The first to place five (or more) marbles in a sequence is the winner. The sequence can be in any vertical, horizontal or diagonal way.
 
-![Pentago board sample](img.png=250x250)
+<img src="img.png" height ="300" width="200"/>
 
 ### Action space
 The agent may choose a (x, y, grid) tuple. The (x, y) is the position of marble and the (grid) is showing target quarter to rotate.
