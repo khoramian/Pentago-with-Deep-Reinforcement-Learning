@@ -63,4 +63,6 @@ cd Pentago-with-Deep-Reinforcement-Learning
 python3 main.py
 ```
 
+## Sample Run
+
 ![sample](utilities/sample.gif)
