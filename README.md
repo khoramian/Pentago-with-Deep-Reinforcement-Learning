@@ -44,8 +44,9 @@ There is more about Pentago and how it is simulated by this environment in [READ
 
 ## Requirements
 It is implemented and tested on a Unix-based OS,
-so it is highly recommended to run on such systems to see full options.
-It should work on Python 3.8+. It requires pygame, numpy, pytorch and gym libraries.
+so it is recommended to install on such systems to see full options.
+It should work on Python 3.8+ and requires gym, pygame, pytorch and numpy libraries.
+
 
 ## Usage
 1. First clone the entire repository:
