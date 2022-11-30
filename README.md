@@ -51,7 +51,8 @@ It should work on Python 3.8+ and requires gym, pygame, pytorch and numpy librar
 ## Usage
 1. First clone the entire repository:
 ```bash
-git liiiiiiink
+git clone https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning.git
+cd Pentago-with-Deep-Reinforcement-Learning
 ```
 
 2. Then install Pentago environment with the help of README.md file in Environment directory.
