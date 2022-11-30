@@ -1,8 +1,16 @@
 # Pentago with Deep Reinforcement Learning
 
-This repository contains two main parts to simulate Pentago game environment and 
+This repository contains two main parts to simulate Pentago environment and 
 solve it with a Deep RL agent called DQN:
 
+    ├── agent
+        ├── Base_Agent.py   
+        ├── Base_Exploration_strategy.py         
+        ├── Config.py
+        ├── DQN.py
+        ├── Epsilon_Greedy_Exploration.py
+        ├── Replay_Buffer.py
+        └── Trainer.py
     ├── environment
         └── gym_pentago
             ├── gym_pentago
@@ -13,14 +21,6 @@ solve it with a Deep RL agent called DQN:
                 └── pent_view_2d.py
             ├── README.md
             └── setup.py
-    ├── agent
-        ├── Base_Agent.py   
-        ├── Base_Exploration_strategy.py         
-        ├── Config.py
-        ├── DQN.py
-        ├── Epsilon_Greedy_Exploration.py
-        ├── Replay_Buffer.py
-        └── Trainer.py
     └── main.py
 
 ### Environment Directory
