@@ -24,6 +24,9 @@ solve it with a Deep RL agent called DQN:
     └── main.py
 
 
+![sample](utilities/sample.gif)
+
+
 ### Agent Directory 
 Agent directory contains several files including PyTorch implementation of DQN algorithm to interact with Pentago environment and solve the game.
 DQN is a Deep RL method introduced by Mnih et al. in 2013. The entire article is accessible by [this link](https://arxiv.org/pdf/1312.5602.pdf).
@@ -35,10 +38,6 @@ For the implementation of this agent, the python files in [this link](https://gi
 ### Environment Directory
 Environment directory contains a customized Gym environment for Pentago board game.
 There is more about Pentago and how it is simulated by this environment in [README](https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning/blob/main/environment/gym-pentago/README.md) file of the directory.
-
-![sample](utilities/sample.gif)
-
-ax gym , ax pentago
 
 
 ## Requirements
