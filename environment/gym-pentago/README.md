@@ -13,10 +13,10 @@ If the position were already used, environment would take no action.
 
 ### Observation space
 The observation space is a list of 36 scalars representing all positions on the board.
-Each list member shows one of the numbers -1, 0 or 1 as for empty, agent or environment place, respectively.
+Each list member shows one of the numbers -1, 0 or 1 as empty, agent or environment place, respectively.
 
 ### Reward
-If the agent won it would receive +30 points and -30 in case of lose.
+If the agent won, it would receive +30 points and -30 in case of lost.
 A reward of -1 is given when the agent chooses an occupied position.
 The reward remains 0 for a normal move or a final draw (when no one or both the agent and environment win).
 
@@ -36,14 +36,14 @@ The game ends if one or both of the agent and environment win or when all positi
 * Both directions
 
 ## Copy Right
-Following link written by Matt Chan is highly used to design and implement the environment:
+Following link provided by Matt Chan is highly used to design and implement this environment:
 https://github.com/MattChanTK/gym-maze
 
 ## Installation
 It is implemented and tested on a Unix-based OS,
 so it is highly recommended to install on such systems to see full options
-(such render problems on Windows or any unpredicted consequences on any other OS is possible).
-It should work on Python 3.8+. It requires pygame and numpy.
+(such render problems or any unpredicted consequences on Windows and any other OS is possible).
+It should work on Python 3.8+ and requires pygame and numpy.
 
 ```bash
 cd environment/gym-pentago
