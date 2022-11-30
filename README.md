@@ -23,14 +23,6 @@ solve it with a Deep RL agent called DQN:
             └── setup.py
     └── main.py
 
-### Environment Directory
-Environment directory contains a customized OpenAI Gym RL Environment for Pentago board game.
-There is more about Pentago and how it is simulated by my Gym environment in directory's README.md.
-fileeeeeeeeeeeeeeee
-
-![sample](utilities/sample.gif)
-
-ax gym , ax pentago
 
 ### Agent Directory 
 Agent directory contains several files including PyTorch implementation of DQN algorithm to interact with
@@ -44,6 +36,17 @@ imageeeeeeeeeeeeee for RL, pytorch
 
 Most of the agent is adopted from the following project by Petros Christodoulou et al.:
 https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+
+### Environment Directory
+Environment directory contains a customized Gym environment for Pentago board game.
+There is more about Pentago and how it is simulated by this package in README file of the directory:
+![README.md](environment/gym-pentago/README.md)
+
+
+![sample](utilities/sample.gif)
+
+ax gym , ax pentago
+
 
 ## Requirements
 It is implemented and tested on a Unix-based OS,
