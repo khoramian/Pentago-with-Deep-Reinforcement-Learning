@@ -1,10 +1,10 @@
 # Pentago with Deep Reinforcement Learning
 
-This repository contains two main directories and a main file to simulate Pentago environment and 
+This repository contains two basic directories and a main file to simulate Pentago environment and 
 solve it with a Deep RL agent called DQN.
 
 
-## main structure
+## High-level structure
 
     ├── agent
         ├── Base_Agent.py   
