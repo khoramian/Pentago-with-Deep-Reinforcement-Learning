@@ -55,7 +55,7 @@ git clone https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning.
 cd Pentago-with-Deep-Reinforcement-Learning
 ```
 
-2. Then install Pentago environment with the help of README.md file in Environment directory.
+2. Then install Pentago environment with the help of [README](https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning/blob/main/environment/gym-pentago/README.md) file in Environment directory.
 
 
 3. Finally, watch the agent learning the game by running main.py file:
