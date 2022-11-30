@@ -42,7 +42,7 @@ The implementations in [this link](https://github.com/MattChanTK/gym-maze) provi
 It is implemented and tested on a Unix-based OS,
 so it is highly recommended to install on such systems to see full options
 (such render problems or any unpredicted consequences on Windows and any other OS is possible).
-It should work on Python 3.8+ and requires pygame and numpy.
+It should work on Python 3.8+ and requires gym, pygame and numpy libraries.
 
 ```bash
 cd environment/gym-pentago
