@@ -1,6 +1,6 @@
 # gym-pentago
 
-A 2D environment for Pentago (aka Pentaball), a strategy board game invented by Tomas Flodén.
+A 2D simulated environment for Pentago (aka Pentaball), a strategy board game invented by Tomas Flodén.
 The game is for two players with four 3×3 grids arranged into a larger 6×6 grid.
 In each turn a player can place a marble in an empty position and rotate a grid by 90° clockwise (except for the grid in which the marble is just set).
 The first to place five (or more) marbles in a sequence is the winner. The sequence can be in any vertical, horizontal or diagonal way.
