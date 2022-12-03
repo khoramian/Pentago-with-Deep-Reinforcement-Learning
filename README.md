@@ -39,7 +39,7 @@ For the implementation of this agent, the python files in [this repository](http
 Environment directory contains a customized Gym environment for Pentago board game.
 There is more about Pentago and how it is simulated by this environment in [README](https://github.com/khoramian/Pentago-with-Deep-Reinforcement-Learning/blob/main/environment/gym-pentago/README.md) file of the directory.
 
-<img src="environment/gym-pentago/img.png" height ="330" width="330"/>          <img src="environment/gym-pentago/OpenAI-gym.png" height ="200" width="350"/>
+<img src="environment/gym-pentago/img.png" height ="300" width="300"/>          <img src="environment/gym-pentago/OpenAI-gym.png" height ="200" width="350"/>
 
 
 ## Requirements
